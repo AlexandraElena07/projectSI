@@ -2,6 +2,8 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    Proiectul este conceput pentru persoanele care dețin un autoturism. Își propune să rezolve probleme proprietarilor de mașini care din diferite considerente își găsesc mașina zgâriată în parcare. Acesta este reprezentat de un sistem de monitorizare a mașinii dintr-o parcare. În cazul în care mașina unei persoane este atinsă de un autovehicul, proprietarul va fi notificat prin aplicația mobilă și va avea salvate pe un card SD imagini cu mașina de care i-a fost zgâriat vehiculul. 
 
+
+
 Modul de functionare: 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    La prima alimentare a sistemului, camera Huskylens este pornită pentru a încărca modelul învățat care se află pe cardul SD și pentru setarea modului în care dorim ca acesta să funcționeze, adică funcționalitate de object tracking. După realizarea acestui setup, camera este stinsă. 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    Senzorul ultrasonic calculează distanțele către obiectele din apropiere. În cazul în care este detectat un obiect la o distanță mai mica de 30 cm, se consideră că acesta este aproape și se pornește camera Huskylens. 
