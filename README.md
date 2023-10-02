@@ -5,6 +5,7 @@
 
 
 Modul de functionare: 
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    La prima alimentare a sistemului, camera Huskylens este pornită pentru a încărca modelul învățat care se află pe cardul SD și pentru setarea modului în care dorim ca acesta să funcționeze, adică funcționalitate de object tracking. După realizarea acestui setup, camera este stinsă. 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    Senzorul ultrasonic calculează distanțele către obiectele din apropiere. În cazul în care este detectat un obiect la o distanță mai mica de 30 cm, se consideră că acesta este aproape și se pornește camera Huskylens. 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    În continuare timp de 3 minute de la apropierea obiectului, camera scanează după obiecte de tipul modelului învățat anterior. 
