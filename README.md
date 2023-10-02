@@ -46,6 +46,8 @@ Testarea sistemului:
 
     
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;     După testarea fiecărei componente, am început integrarea pe rând a lor, adăugând câte o componentă o dată. Astfel, am verificat funcționarea progresivă a sistemului.
+
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;     Pentru testarea întregului sistemului, ne-am folosit de 2 mașini la scară mică pentru a imita scenariul real.
 
 
