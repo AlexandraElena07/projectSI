@@ -71,4 +71,4 @@ Scenariul de funcționare:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;     - pozele de pe card pot fi observate citind cardul pe calculator, iar notificarea va apărea pe ecranul telefonului.
 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;     Aplicația de telefon a fost creată prin intermediul aplicației web Mit App Inventor.
+Aplicația de telefon a fost creată prin intermediul aplicației web Mit App Inventor.
